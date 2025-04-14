@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This responsive web app showcases my projects, education, and skills, with smooth animations, dark mode, and contact form validation.
 
 ## 🌐 Live Demo
-[Click here to view the live website](https://your-portfolio-link.com)
+[Click here to view the live website](https://girish-08.github.io/portfolio/)
 
 ---
 
